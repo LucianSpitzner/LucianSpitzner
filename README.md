@@ -3,7 +3,7 @@
     - M.SC in astrophysics at Lund University, Sweden
 - 👀 I’m interested in astrophysics, programming, exoplanets, (also sourdough baking)
 - 🌱 I’m currently learning python, github,
--     but interested in html, javascript, SQL and C
+- interested in html, javascript, SQL and C
 - 📫 How to reach me: lu6676@student.lu.se / lucian@s-spitzner.de
 
 <!---
